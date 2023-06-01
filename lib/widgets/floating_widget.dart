@@ -2,13 +2,21 @@ import 'package:flutter/material.dart';
 import '../enums/directions.dart';
 
 class FloatingWidget extends StatefulWidget {
+  /// widget you want to be displayed
   final Widget child;
+  /// duration for the start animation direction
   final Duration? duration;
+  /// duration for reversed animation (when the animation back to first step)
   final Duration? reverseDuration;
+  /// directions for floating type you want to show the widget with
   final FloatingDirection? direction;
+  /// horizontal space that widget will move and back to
   final double? horizontalSpace;
+  /// Vertical space that widget will move and back to
   final double? verticalSpace;
+  /// if you want to pass specific offset to animation start from, according to your use
   final Offset? beginOffset;
+  /// if you want to pass specific offset to animation end according to your use
   final Offset? endOffset;
 
   const FloatingWidget(
