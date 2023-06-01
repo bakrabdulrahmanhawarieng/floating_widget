@@ -1,4 +1,4 @@
-# Floating Widget
+# Animated Floating Widget
 [![bakrabdulrahmanhawarieng - floating_widget](https://img.shields.io/static/v1?label=bakrabdulrahmanhawarieng&message=floating_widget&color=green&logo=github)](https://github.com/bakrabdulrahmanhawarieng/floating_widget "Go to GitHub repo")
 [![stars - floating_widget](https://img.shields.io/github/stars/bakrabdulrahmanhawarieng/floating_widget?style=social)](https://github.com/bakrabdulrahmanhawarieng/floating_widget)
 [![forks - floating_widget](https://img.shields.io/github/forks/bakrabdulrahmanhawarieng/floating_widget?style=social)](https://github.com/bakrabdulrahmanhawarieng/floating_widget)
@@ -40,4 +40,4 @@ Released under [MIT](/LICENSE) by [@bakrabdulrahmanhawarieng](https://github.com
 3. Commit your changes (git commit -am 'Add some fooBar')
 4. Push to the branch (git push origin feature/fooBar)
 5. Create a new Pull Request# floating_widget
-# floating_widget
+# animated_floating_widget
