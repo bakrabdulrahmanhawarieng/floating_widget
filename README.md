@@ -7,7 +7,7 @@
 [![issues - floating_widget](https://img.shields.io/github/issues/bakrabdulrahmanhawarieng/floating_widget)](https://github.com/bakrabdulrahmanhawarieng/floating_widget/issues)
 
 ## Intro
-A customizable floating widget for flutter.
+A customizable animated floating widget for flutter.
 ## Getting started
 
 In the `pubspec.yaml` of your flutter project, add the following dependency:
