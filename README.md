@@ -1,10 +1,10 @@
 # Animated Floating Widget
-[![bakrabdulrahmanhawarieng - floating_widget](https://img.shields.io/static/v1?label=bakrabdulrahmanhawarieng&message=floating_widget&color=green&logo=github)](https://github.com/bakrabdulrahmanhawarieng/floating_widget "Go to GitHub repo")
-[![stars - floating_widget](https://img.shields.io/github/stars/bakrabdulrahmanhawarieng/floating_widget?style=social)](https://github.com/bakrabdulrahmanhawarieng/floating_widget)
-[![forks - floating_widget](https://img.shields.io/github/forks/bakrabdulrahmanhawarieng/floating_widget?style=social)](https://github.com/bakrabdulrahmanhawarieng/floating_widget)
-[![GitHub release](https://img.shields.io/github/release/bakrabdulrahmanhawarieng/floating_widget?include_prereleases=&sort=semver&color=purple)](https://github.com/bakrabdulrahmanhawarieng/floating_widget/releases/)
+[![bakrabdulrahmanhawarieng - animated_floating_widget](https://img.shields.io/static/v1?label=bakrabdulrahmanhawarieng&message=animated_floating_widget&color=green&logo=github)](https://github.com/bakrabdulrahmanhawarieng/animated_floating_widget "Go to GitHub repo")
+[![stars - animated floating_widget](https://img.shields.io/github/stars/bakrabdulrahmanhawarieng/animated_floating_widget?style=social)](https://github.com/bakrabdulrahmanhawarieng/animated_floating_widget)
+[![forks - animated floating_widget](https://img.shields.io/github/forks/bakrabdulrahmanhawarieng/animated_floating_widget?style=social)](https://github.com/bakrabdulrahmanhawarieng/animated_floating_widget)
+[![GitHub release](https://img.shields.io/github/release/bakrabdulrahmanhawarieng/animated_floating_widget?include_prereleases=&sort=semver&color=purple)](https://github.com/bakrabdulrahmanhawarieng/animated_floating_widget/releases/)
 [![License](https://img.shields.io/badge/License-MIT-purple)](#license)
-[![issues - floating_widget](https://img.shields.io/github/issues/bakrabdulrahmanhawarieng/floating_widget)](https://github.com/bakrabdulrahmanhawarieng/floating_widget/issues)
+[![issues - animated floating_widget](https://img.shields.io/github/issues/bakrabdulrahmanhawarieng/animated_floating_widget)](https://github.com/bakrabdulrahmanhawarieng/animated_floating_widget/issues)
 
 ## Intro
 A customizable animated floating widget for flutter.
@@ -15,7 +15,7 @@ In the `pubspec.yaml` of your flutter project, add the following dependency:
 ```yaml
 dependencies:
   ...
-  floating_widget: <latest_version>
+  animated_floating_widget: <latest_version>
 ```
 
 In your library add the following import:
@@ -35,9 +35,9 @@ Released under [MIT](/LICENSE) by [@bakrabdulrahmanhawarieng](https://github.com
 
 ## Contribution
 
-1. Fork it (https://github.com/bakrabdulrahmanhawarieng/floating_widget/fork)
+1. Fork it (https://github.com/bakrabdulrahmanhawarieng/animated_floating_widget/fork)
 2. Create your feature branch (git checkout -b feature/fooBar)
 3. Commit your changes (git commit -am 'Add some fooBar')
 4. Push to the branch (git push origin feature/fooBar)
-5. Create a new Pull Request# floating_widget
+5. Create a new Pull Request# animated_floating_widget
 # animated_floating_widget

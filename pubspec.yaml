@@ -1,8 +1,8 @@
 name: animated_floating_widget
 description: Floating animated widget that help user to show his widget as float with animation.
-version: 0.0.3
-repository: https://github.com/bakrabdulrahmanhawarieng/floating_widget
-examples: https://github.com/bakrabdulrahmanhawarieng/floating_widget/tree/main/example
+version: 0.0.5
+repository: https://github.com/bakrabdulrahmanhawarieng/animated_floating_widget
+examples: https://github.com/bakrabdulrahmanhawarieng/animated_floating_widget/tree/main/example
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
