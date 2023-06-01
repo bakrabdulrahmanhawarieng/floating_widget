@@ -1,4 +1,6 @@
+import 'package:animated_floating_widget/animated_floating_widget.dart';
 import 'package:flutter/material.dart';
+
 import '../enums/directions.dart';
 
 class FloatingWidget extends StatefulWidget {

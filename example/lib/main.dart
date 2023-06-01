@@ -1,4 +1,4 @@
-import 'package:animated_floating_widget/floating_widget.dart';
+import 'package:animated_floating_widget/animated_floating_widget.dart';
 import 'package:flutter/material.dart';
 
 void main() {
