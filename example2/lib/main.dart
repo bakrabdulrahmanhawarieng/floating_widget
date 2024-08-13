@@ -1,4 +1,5 @@
-import 'package:animated_floating_widget/animated_floating_widget.dart';
+import 'package:animated_floating_widget/enums/directions.dart';
+import 'package:animated_floating_widget/widgets/floating_widget.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -37,14 +38,13 @@ class FloatingWidgetExample extends StatelessWidget {
         children: [
           Center(
               child: FloatingWidget(
-                verticalSpace: 10,
-                direction: FloatingDirection.topCenterToBottomCenter,
-                duration: const Duration(
-                  seconds: 3,
-                ),
-                reverseDuration: const Duration(seconds: 1),
-                child: Image.asset('assets/images/flutter_brand.png')
-              )),
+                  verticalSpace: 10,
+                  direction: FloatingDirection.topCenterToBottomCenter,
+                  duration: const Duration(
+                    seconds: 3,
+                  ),
+                  reverseDuration: const Duration(seconds: 1),
+                  child: Image.asset('assets/images/flutter_brand.png'))),
         ],
       ),
     );
