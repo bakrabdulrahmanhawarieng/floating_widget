@@ -54,3 +54,12 @@ flutter:
   #
   # For details regarding fonts in packages, see
   # https://flutter.dev/custom-fonts/#from-packages
+tags:
+  - floating-widget
+  - animated-widget
+  - tween-animation
+  - slide-transition
+  - offset-animation
+
+
+
